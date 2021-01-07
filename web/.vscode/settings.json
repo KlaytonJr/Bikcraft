@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.CustomBrowser": "firefox",
+    // Desativate auto-reload Live Server
+    "liveServer.settings.ignoreFiles": ["**"],
+}
